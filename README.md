@@ -18,7 +18,8 @@ Ik spawn pillaren door te klikken
 [Spawner](Assets/Scripts/Spawner.cs)
 
 
-![a8hawp](https://github.com/user-attachments/assets/9521d600-353f-464f-a982-2778c61ad3c1)
+
+![billen](https://github.com/user-attachments/assets/76d43bbc-c929-4bb8-8c3b-a12aac78252c)
 
 
 Ballen die spawnen elke seconden
