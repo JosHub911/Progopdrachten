@@ -1,28 +1,26 @@
 using UnityEngine;
 using TMPro;
-using System;
 
 public class ScoreSystem : MonoBehaviour
 {
-
-    private int score = 0;
-    private TMP_Text textField;
+    public int score = 0;
+    public TMP_Text scoreText;
 
     private void Start()
     {
-        textField = GetComponent<TMP_Text>();
-        UpdateScoreText();
+        Coins.OnCoinCollected += GetPoints;
     }
 
-    public void AddScore(int points)
+    private void OnDestroy()
     {
-        score += points;
-        UpdateScoreText();
+        Coins.OnCoinCollected -= GetPoints;
     }
 
-    private void UpdateScoreText()
+    private void GetPoints()
     {
-        textField.text = "Score: " + score.ToString();
-    }
+        score += 1;
+        scoreText.text = "Score: " + score.ToString();
+    }   
+
 
 }
