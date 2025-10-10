@@ -3,6 +3,7 @@
 ![a8ha3r](https://github.com/user-attachments/assets/5cdbe098-8d1a-4b58-aae8-15fac447533d)
 
 
+
 Coin system, Ik heb een blok die coins oppakt met een score 
 
 
