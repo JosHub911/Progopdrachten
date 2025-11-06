@@ -25,7 +25,7 @@ Script:
 [Ballen.cs](Assets/Scripts/Ballen.cs)
 
 Voorbeeld:
-![Ballen](https://github.com/user-attachments/assets/5cdbe098-8d1a-4b58-aae8-15fac447533d)
+![Coins](https://github.com/user-attachments/assets/5cdbe098-8d1a-4b58-aae8-15fac447533d)
 
 ---
 
