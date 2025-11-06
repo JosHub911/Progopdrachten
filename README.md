@@ -7,7 +7,9 @@ In deze opdracht worden pilaren gespawned door op het scherm te klikken.
 [Spawner](Assets/Scripts/Spawner.cs)
 
 **Resultaat:**  
-![Pilaren](https://github.com/user-attachments/assets/76d43bbc-c929-4bb8-8c3b-a12aac78252c)
+![Pillaren](https://github.com/user-attachments/assets/da09766f-c696-4f0d-84bc-c2c7b2675c14)
+
+
 
 Daarnaast spawnen ballen automatisch iedere seconde.
 
@@ -15,7 +17,7 @@ Daarnaast spawnen ballen automatisch iedere seconde.
 [Balls](Assets/Scripts/Ballen.cs)
 
 **Resultaat:**  
-![Ballen](https://github.com/user-attachments/assets/5cdbe098-8d1a-4b58-aae8-15fac447533d)
+![Balls](https://github.com/user-attachments/assets/76d43bbc-c929-4bb8-8c3b-a12aac78252c)
 
 ---
 
@@ -26,7 +28,7 @@ Coin system: een speler (blok) verzamelt coins en de score wordt live bijgewerkt
 [ScoreSystem](Assets/Scripts/ScoreSystem.cs)
 
 **Resultaat:**  
-![Score System](https://github.com/user-attachments/assets/da09766f-c696-4f0d-84bc-c2c7b2675c14)
+![CoinCollect](https://github.com/user-attachments/assets/5cdbe098-8d1a-4b58-aae8-15fac447533d)
 
 ---
 
