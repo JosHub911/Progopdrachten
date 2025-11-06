@@ -1,5 +1,3 @@
-Here is a cleaner, professional, well-structured version of your README.
-Geen emoji’s, duidelijker taal, betere opmaak, consistente formatting:
 
 ---
 
