@@ -16,7 +16,6 @@ public class Ballen : MonoBehaviour
         // voor CORE pipeline
         material.SetColor("_Color", c);
 
-
         //Voor URP
         if (material.shader.name == "Universal Render Pipeline/Lit")
         {
@@ -53,6 +52,6 @@ public class Ballen : MonoBehaviour
             elapsedTime = 0f;
         }
 
-
+        
     }
 }
