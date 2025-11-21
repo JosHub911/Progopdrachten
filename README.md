@@ -77,7 +77,8 @@ Moet nog een Gif van maken
 
 ## Les 2
 
-**Class Diagrams van me TD game**
+**Class Diagrams van mijn TD game**
+
 +-------------------+
 |       Bullet      |
 +-------------------+
@@ -89,7 +90,7 @@ Moet nog een Gif van maken
 +-------------------+
         |
         v
-  interacts with
+   interacts with
 +-------------------+
 |  Enemymovement /  |
 |      Enemy        |
@@ -119,7 +120,7 @@ Moet nog een Gif van maken
 +-------------------+
         ^
         |
-   spawns
+      spawns
 +-------------------+
 |   EnemyType       |
 +-------------------+
@@ -181,7 +182,7 @@ Moet nog een Gif van maken
 +-------------------+
         |
         v
-     shoots
+      shoots
 +-------------------+
 |      Bullet       |
 +-------------------+
@@ -201,7 +202,7 @@ Moet nog een Gif van maken
 +-------------------+
         |
         v
-     spawns
+      spawns
 +-------------------+
 |      Bullet       |
 +-------------------+
@@ -259,7 +260,7 @@ Moet nog een Gif van maken
 +-------------------+
         ^
         |
-used by
+      used by
 +-------------------+
 | TurretDragUI      |
 +-------------------+
@@ -343,4 +344,5 @@ used by
 | - nextSceneName   |
 | - spawner         |
 +-------------------+
+
 
